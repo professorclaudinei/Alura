@@ -9,7 +9,7 @@ header {
 	
 nav {
 	position: absolute;
-	top: 110px;
+	top: 140px;
 	right: 0;
 }
 
@@ -20,7 +20,7 @@ nav li {
 
 nav a {
 	text-transform: uppercase;
-	color: #000000;
+	color: #a6d53a;
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
